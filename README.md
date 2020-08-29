@@ -6,15 +6,24 @@
 
 ### How to run this batch file from the terminal
 
-- Locate the batch file then run:
+- Place the given batch file in root of the local repository then run:
 
 ```
-<file_name> "<your commit message here> "
+<file_name> "<your commit message here>"
 ```
 
-Ex: `push "Initial Commit"`
+Ex: `push "Initial Commit"`. 
 
-- But in this case we need to copy paste the batch file inside each local repo. To avoid this, we need to save this batch file in a separate folder and set the path variable. 
+### Alternate Way
+
+- To avoid copy pasting of batch file inside each local repo, save this batch file in a separate folder and then add the path of the repository in first line of batch file.
+
+Ex:
+```
+cd E:\Local\Push-To-GitHub
+```
+
+- Then set the path variable.
 
 ### Setting Up PATH Variable:
 
