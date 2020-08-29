@@ -20,7 +20,7 @@ Ex: `push "Initial Commit"`.
 
 Ex:
 ```
-cd E:\Local\Push-To-GitHub
+cd E:\GitHub\Push-To-GitHub
 ```
 
 - Then set the path variable.
