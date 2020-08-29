@@ -16,9 +16,9 @@ Ex: `push "Initial Commit"`.
 
 ### Alternate Way
 
-- To avoid copy pasting of batch file inside each local repo, save this batch file in a separate folder and then add the path of the repository in first line of batch file.
+- To avoid copy pasting of batch file inside each local repo, save this batch file in a separate folder and then add the path of the local repository in first line of batch file.
 
-Ex:
+Path of my local repository :
 ```
 cd E:\GitHub\Push-To-GitHub
 ```
