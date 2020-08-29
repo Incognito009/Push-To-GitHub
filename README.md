@@ -33,4 +33,9 @@ cd E:\GitHub\Push-To-GitHub
 - Click `Edit the system environment Variables` and then click `Environment Variables`.
 - In the section `System Variables`, find the `PATH` environment variable and select it. Then click Edit.
 - In the Edit System Variable window, click New and specify the path to the batch file (Just add the path of the folder containing batch files) and click OK and close all remaining windows by clicking OK.
-- Now open your terminal anywhere and enter the filename of the batch file and commit message and hit ENTER it will run the commands no matter where the batch file is.
+- Now open your terminal anywhere and enter the filename of the batch file and commit message (see example below) and hit ENTER it will run the commands no matter where the batch file is.
+
+Ex:
+```
+<file_name> "<your commit message here>"
+```
